@@ -7,6 +7,7 @@ function App() {
         <input type="text" class="a_inp" />
       </form>
       <h1>Hello  New Update 1</h1>
+      <h1>Hello  New Update 2</h1>
     </div>
   );
 }
